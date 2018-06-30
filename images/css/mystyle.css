@@ -1,0 +1,102 @@
+.ui-content {
+	width: 100%;
+	background-color: #4B4B4B;
+	padding-left: 0em;
+	padding-right: 1em;
+	margin-top: 0em;
+	margin-right: 0em;
+	margin-bottom: auto;
+	margin-left: 0em;
+	padding-top: auto;
+	padding-bottom: auto;
+	text-decoration: none;
+	color:#7E7E7E;
+}
+
+.ui-content form input {
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #000000;
+
+}
+.ui-content form input:hover  {
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFFFFF;
+}
+
+.ui-content form {
+    width: 350px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.ui-content ul {
+    width: 350px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.ui-header div{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer{
+	text-align: center;
+	color: #222222;
+	font-weight: bold;
+	font-size: 15px;
+	border-radius: 10px;
+	
+	
+}
+
+.header{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+
+.ui-content table {
+	width: 100%;
+}
+.ui-content table tbody {
+	color: #1F1F1F;
+	font-weight: bold;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+.ui-content div iframe {
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: 1em;
+}
+
+
+
+.ui-content div ul li {
+	width: 100%;
+	border-radius: 5px;
+	border-collapse: collapse;
+	border-spacing: 10px 10px;
+	border-width: thick;
+	border-style: solid;
+	-webkit-box-shadow: inset 2px 2px 2px 1px #4B4B4B;
+	box-shadow: inset 2px 2px 2px 1px #4B4B4B;
+}
+.ui-content div img {
+	margin-top: 1em;
+	margin-right: 1em;
+	margin-bottom: 1em;
+	margin-left: 1em;
+}
+.ui-content div h3 {
+	margin-left: 1em;
+	margin-right: 1em;
+
+}
